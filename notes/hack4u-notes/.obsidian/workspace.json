@@ -4,30 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "c8377947837881f3",
+        "id": "2927bb47dd4c16a3",
         "type": "tabs",
         "children": [
           {
-            "id": "b059b0e86e4db8ba",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          }
-        ]
-      },
-      {
-        "id": "56e6ae8725c08f23",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "4f1b503382ff4a3a",
+            "id": "efb84d549ddf3097",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tareas.md",
+                "file": "Explotacion/External Entity Injection (XXE)/XML External Entity Injection.md",
                 "mode": "source",
                 "source": false
               }
@@ -99,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tareas.md",
+                "file": "Explotacion/External Entity Injection (XXE)/XML External Entity Injection.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Tareas.md",
+                "file": "Explotacion/External Entity Injection (XXE)/XML External Entity Injection.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Tareas.md"
+                "file": "Explotacion/External Entity Injection (XXE)/XML External Entity Injection.md"
               }
             }
           }
@@ -160,23 +146,45 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "52c81842a864eaab",
+  "active": "efb84d549ddf3097",
   "lastOpenFiles": [
-    "Tools - Herramientas.md",
-    "Tareas.md",
-    "Índice.md",
-    "Gestores de contenido.md",
-    "gestores de contenido/WordPress/XMLRPC.md",
-    "gestores de contenido/WordPress/Wpscan.md",
-    "gestores de contenido/WordPress/WordPress.md",
-    "gestores de contenido/WordPress",
-    "gestores de contenido/Magento/Magento.md",
-    "gestores de contenido/Magento",
-    "gestores de contenido/Joomla/Joomla.md",
-    "gestores de contenido/Joomla",
-    "gestores de contenido/Drupal/Drupal.md",
-    "gestores de contenido/Drupal",
-    "gestores de contenido",
-    "Bienvenido.md"
+    "Explotacion/SQL injections/SQLI.md",
+    "Explotacion/Cross Site Scripting (XSS)/Cross-Site Scripting.md",
+    "Explotacion/External Entity Injection (XXE)/XML External Entity Injection.md",
+    "img/Screenshot 2024-08-21 215257.png",
+    "img/Screenshot 2024-08-21 215241.png",
+    "img/Pasted image 20240818210708.png",
+    "img",
+    "Explotacion/External Entity Injection (XXE)",
+    "Reconocimiento/Nmap/Evasión de Firewalls.md",
+    "Reconocimiento/Nmap/Alternativas.md",
+    "Explotacion/Cross Site Scripting (XSS)",
+    "CMS/WordPress/WordPress.md",
+    "Básico/Direcciones MAC (OIU y NIC).md",
+    "Explotacion/Herramientas/Burpsuite.md",
+    "Explotacion/Enumeración del sistema.md",
+    "Explotacion/Herramientas",
+    "Básico/Modelo OSI.md",
+    "Explotacion/Escalada de privilegios",
+    "Reconocimiento/Otros/Reconocimiento de imagenes.md",
+    "Reconocimiento/Otros",
+    "Reconocimiento/Otros/Correos electrónicos.md",
+    "Cronología - Hacking.md",
+    "Reconocimiento/Red Local/Arp e ICMP.md",
+    "Reconocimiento/Nmap/Scripts nmap.md",
+    "Reconocimiento/Nmap/Nmap.md",
+    "Básico/Subnetting.md",
+    "Básico/Protocolos (UDP, TCP) 3 hand shake.md",
+    "Básico/IP4 e IP6.md",
+    "Básico",
+    "Explotacion/Payloads/Not stagged.md",
+    "Explotacion/SQL injections",
+    "Explotacion/Payloads/Stagged.md",
+    "Explotacion/Payloads",
+    "Reconocimiento/Enumeracion Web/Whatweb.md",
+    "Reconocimiento/Enumeracion Web/Subdominios/Subdominios.md",
+    "Reconocimiento/Enumeracion Web/Directorios/Gobuster",
+    "Explotacion/Forward Shell/Forward Shell.md",
+    "Explotacion/Bind Shell/Bind Shell.md"
   ]
 }
